@@ -49,7 +49,7 @@ attrReports = [{'nodeId':node1,'epId':'05','clustName':'Thermostat Cluster', 'at
 
 
 # Serial Port Parameters
-PORT = '/dev/tty.SLsmaAB_USBtoUART'
+PORT = '/dev/tty.SLAB_USBtoUART'
 BAUD = 19200
 
 def bindTest(myNode):
