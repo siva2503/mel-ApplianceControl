@@ -1,6 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # Config file for attribute logging script
 # Make sure USB is inserted and joined to the wanted network
 # Enter BM node Id below.
+
+
 import FF_zigbeeClusters as zbc
 
 # Logging on/off and name of logfile to use.  Data is appended to that file.
